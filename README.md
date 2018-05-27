@@ -13,7 +13,7 @@ This repo holds the list of current serving members of Node.js Africa and their 
 
 ## Contributors
 - Rachael Onuigbo ([@raechaelo](https://github.com/raechaelo)) Nodejs Africa Writers Mentoring.
-
+- Samuel Omole ([@samie820](https://github.com/samie820))
 
 ## Collaborators
 
