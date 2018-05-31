@@ -20,6 +20,7 @@ This repo holds the list of current serving members of Node.js Africa and their 
 
 ## Contributors
 - Samuel Omole ([@samie820](https://github.com/samie820))
+- Shankar Regmi ([@snkrgmi](https://github.com/shankarregmi))
 
 
 
