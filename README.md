@@ -16,6 +16,9 @@ This repo holds the list of current serving members of Node.js Africa and their 
 
 ## National Directors/Chairs
 
+- Node.js Nigeria - [Opesanya Adebayo](https://github.com/OpesanyaAdebayo) - National Director  
+
+
 ## Local Chapter Champions
 
 ## Contributors
